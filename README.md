@@ -18,8 +18,16 @@ internship at DecodeLabs.
 - Generated visualizations using Matplotlib and Seaborn
 - Tools: Python, Pandas, Matplotlib, Seaborn
 
+### Task 3 — SQL Data Analysis
+* Performed SQL-based analysis on cleaned e-commerce dataset
+* Used SELECT, WHERE, ORDER BY for data filtering and sorting
+* Applied GROUP BY with aggregations (COUNT, SUM, AVG)
+* Extracted insights such as revenue by product, orders by status
+* Tools: MySQL, MySQL Workbench
+
 ## Tools & Technologies
 - Python | Pandas | Matplotlib | Seaborn
+- MySQL | SQL
 - Excel | Power BI
 - Git | GitHub
 
